@@ -3,3 +3,4 @@
 <h2>OUTPUT</h2>
 <img src="https://user-images.githubusercontent.com/75389946/111388581-ec68de00-8685-11eb-83fa-3877ef3cb8d1.jpg">
 
+- Will run in terminal
